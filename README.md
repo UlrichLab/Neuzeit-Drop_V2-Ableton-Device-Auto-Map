@@ -26,7 +26,7 @@ An Ableton Live 12 remote script for the **Neuzeit Drop**. Select a device in Li
 
 ## Installation
 
-Download **`Neuzeit-Drop_V2.zip`** from the [latest release](../../releases/latest) and unzip it. It contains:
+Download **`Neuzeit-Drop_V2.zip`** from the [latest release](https://github.com/UlrichLab/Neuzeit-Drop_V2-Ableton-Device-Auto-Map/releases/latest) and unzip it. It contains:
 
 | File / folder | Goes to |
 |---|---|
